@@ -1,6 +1,6 @@
 # CovidCare-Website
 
-Problem definition-
+### About CovidCare Website
 
 The world is seeing increasing cases of Covid-19 virus. Hospital beds get filled as soon as a 
 Covid-19 wave hits. This is making people more and more anxious as days pass. To tackle all 
@@ -15,7 +15,7 @@ involved will be region specific and all the information in the database will be
 only.
 
 
-Technologies - Programming Language, Database, Others
+### Technologies - Programming Language, Database, Others
 • Programming language:Programming language that will be used in the backend of this 
 software system is Python. It is one of the most popular and widely used programming 
 languages in the world.
